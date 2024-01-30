@@ -2,7 +2,7 @@
 The objective of this Project is to assist the sellers, buyers,  in the used car market. 
 
 ## objective
-The objective of this case study is to assist the sellers, buyers, 
+The objective of this project is to assist the sellers, buyers, 
 in the used car market. Based on the information provided by the users, it 
 may then provide a relatively accurate price estimate, understand what are all 
 the attribute feature effect on the price of a car, selecting the right features 
