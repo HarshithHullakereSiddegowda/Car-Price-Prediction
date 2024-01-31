@@ -62,7 +62,8 @@ Before fitting a particular classifier on the training data, we select the best 
 
 Regressor with the best set of hyper-parameter values as identified via grid search using the training data are called tuned Regressor. Once we identify the Four tuned Regressor( with the best hyper-parameter values), we 'fit' them on the test data using cross-validation in a paired fashion and we perform paired t-tests to see if any performance difference is statistically significant. In addition, we are comparing the regressor wit respect to their r2 and MAE scores and confusion matrices on the test data.
 
-![car](https://github.com/HarshithHullakereSiddegowda/Car-Price-Prediction/assets/100402681/54f2b707-77cb-4736-a74f-641821f9cf4a)
+![car](https://github.com/HarshithHullakereSiddegowda/Data__Visualization/assets/100402681/524196fe-b58e-43c4-b48e-d7c1baf4099f)
+
 
 ## Summary of Findings:
 
